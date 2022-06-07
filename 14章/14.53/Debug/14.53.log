@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\BaiduNetdiskDownload\primer习题\14章\14.53\main.cpp(9,37): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\BaiduNetdiskDownload\primer习题\14章\14.53\main.cpp(9,37): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+E:\BaiduNetdiskDownload\primer习题\14章\14.53\main.cpp(33,14): error C2593: “operator +”不明确
+E:\BaiduNetdiskDownload\primer习题\14章\14.53\main.cpp(33,14): message : 可能是“内置 C++ operator+(int, double)”
+E:\BaiduNetdiskDownload\primer习题\14章\14.53\main.cpp(33,14): message : 或    “内置 C++ operator+(int, float)”
+E:\BaiduNetdiskDownload\primer习题\14章\14.53\main.cpp(33,14): message : 尝试匹配参数列表“(SmallInt, Longdouble)”时

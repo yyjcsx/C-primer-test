@@ -1,0 +1,11 @@
+﻿  get_print.cpp
+main.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Query const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABVQuery@@@Z) 已经在 get_print.obj 中定义
+main.obj : error LNK2005: "private: virtual class Queryresult __thiscall AndQuery::eval(class textQuery const &)const " (?eval@AndQuery@@EBE?AVQueryresult@@ABVtextQuery@@@Z) 已经在 get_print.obj 中定义
+main.obj : error LNK2005: "private: virtual class Queryresult __thiscall NotQuery::eval(class textQuery const &)const " (?eval@NotQuery@@EBE?AVQueryresult@@ABVtextQuery@@@Z) 已经在 get_print.obj 中定义
+main.obj : error LNK2005: "private: virtual class Queryresult __thiscall OrQuery::eval(class textQuery const &)const " (?eval@OrQuery@@EBE?AVQueryresult@@ABVtextQuery@@@Z) 已经在 get_print.obj 中定义
+main.obj : error LNK2005: "bool __cdecl get_words(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (?get_words@@YA_NAAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z) 已经在 get_print.obj 中定义
+Query.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Query const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABVQuery@@@Z) 已经在 get_print.obj 中定义
+Query.obj : error LNK2005: "private: virtual class Queryresult __thiscall AndQuery::eval(class textQuery const &)const " (?eval@AndQuery@@EBE?AVQueryresult@@ABVtextQuery@@@Z) 已经在 get_print.obj 中定义
+Query.obj : error LNK2005: "private: virtual class Queryresult __thiscall NotQuery::eval(class textQuery const &)const " (?eval@NotQuery@@EBE?AVQueryresult@@ABVtextQuery@@@Z) 已经在 get_print.obj 中定义
+Query.obj : error LNK2005: "private: virtual class Queryresult __thiscall OrQuery::eval(class textQuery const &)const " (?eval@OrQuery@@EBE?AVQueryresult@@ABVtextQuery@@@Z) 已经在 get_print.obj 中定义
+E:\BaiduNetdiskDownload\primer习题\15章\Query\Debug\Query.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

@@ -1,0 +1,23 @@
+Mileusnic, Milana, Ian E. Brown, Ning Lan, and Gerald E. Loeb.
+Mathematical models of proprioceptors. I. Control and transduction in
+the muscle spindle. J Neurophysiol 96: 1772–1788, 2006. First published May 3, 2006; doi:10.1152/jn.00868.2005. We constructed a
+physiologically realistic model of a lower-limb, mammalian muscle
+spindle composed of mathematical elements closely related to the
+anatomical components found in the biological spindle. The spindle
+model incorporates three nonlinear intrafusal fiber models (bag1, bag2,
+and chain) that contribute variously to action potential generation of
+primary and secondary afferents. A single set of model parameters
+was optimized on a number of data sets collected from feline soleus
+muscle, accounting accurately for afferent activity during a variety of
+ramp, triangular, and sinusoidal stretches. We also incorporated the
+different temporal properties of fusimotor activation as observed in
+the twitchlike chain fibers versus the toniclike bag fibers. The model
+captures the spindle’s behavior both in the absence of fusimotor
+stimulation and during activation of static or dynamic fusimotor
+efferents. In the case of simultaneous static and dynamic fusimotor
+efferent stimulation, we demonstrated the importance of including the
+experimentally observed effect of partial occlusion. The model was
+validated against data that originated from the cat’s medial gastrocnemius muscle and were different from the data used for the parameter determination purposes. The validation record included recently
+published experiments in which fusimotor efferent and spindle afferent activities were recorded simultaneously during decerebrate locomotion in the cat. This model will be useful in understanding the role
+of the muscle spindle and its fusimotor control during both natural and
+pathological motor behavior.

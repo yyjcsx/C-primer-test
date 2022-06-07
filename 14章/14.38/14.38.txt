@@ -1,0 +1,17 @@
+Interest in emulating the properties of biological muscles that allow for fast adaptability and control in
+unstructured environments has motivated researchers to develop new soft actuators, often referred to as ‘artificial
+muscles’. The field of soft robotics is evolving rapidly as new soft actuator designs are published every year. In
+parallel, recent studies have also provided new insights for understanding biological muscles as ‘active’ materials whose
+tunable properties allow them to adapt rapidly to external perturbations. This work presents a comparative study
+of biological muscles and soft actuators, focusing on those properties that make biological muscles highly adaptable
+systems. In doing so, we briefly review the latest soft actuation technologies, their actuation mechanisms, and
+advantages and disadvantages from an operational perspective. Next, we review the latest advances in understanding
+biological muscles. This presents insight into muscle architecture, the actuation mechanism, and modeling, but more
+importantly, it provides an understanding of the properties that contribute to adaptability and control. Finally,
+we conduct a comparative study of biological muscles and soft actuators. Here, we present the accomplishments
+of each soft actuation technology, the remaining challenges, and future directions. Additionally, this comparative
+study contributes to providing further insight on soft robotic terms, such as biomimetic actuators, artificial muscles,
+and conceptualizing a higher level of performance actuator named artificial supermuscle. In conclusion, while soft
+actuators often have performance metrics such as specific power, efficiency, response time, and others similar to those
+in muscles, significant challenges remain when finding suitable substitutes for biological muscles, in terms of other
+factors such as control strategies, onboard energy integration, and thermoregulation.

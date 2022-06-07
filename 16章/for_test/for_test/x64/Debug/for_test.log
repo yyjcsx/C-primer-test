@@ -1,0 +1,3 @@
+﻿  test.cpp
+G:\BaiduNetdiskWorkspace\primer习题\16章\for_test\for_test\test.cpp(17,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  for_test.vcxproj -> G:\BaiduNetdiskWorkspace\primer习题\16章\for_test\x64\Debug\for_test.exe

@@ -1,0 +1,11 @@
+﻿  my_screen.cpp
+E:\BaiduNetdiskDownload\primer习题\16章\16.15\my_screen.h(28,1): warning C4305: “参数”: 从“int”到“const _Elem”截断
+          with
+          [
+              _Elem=char
+          ]
+E:\BaiduNetdiskDownload\primer习题\16章\16.15\my_screen.h(28): message : 在编译 类 模板 成员函数“Screen<6,6>::Screen(void)”时
+E:\BaiduNetdiskDownload\primer习题\16章\16.15\my_screen.cpp(5): message : 查看对正在编译的函数 模板 实例化“Screen<6,6>::Screen(void)”的引用
+E:\BaiduNetdiskDownload\primer习题\16章\16.15\my_screen.cpp(5): message : 查看对正在编译的 类 模板 实例化“Screen<6,6>”的引用
+E:\BaiduNetdiskDownload\primer习题\16章\16.15\my_screen.h(28,28): warning C4309: “参数”: 截断常量值
+  16.15.vcxproj -> E:\BaiduNetdiskDownload\primer习题\16章\16.15\Debug\16.15.exe

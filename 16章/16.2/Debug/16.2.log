@@ -1,0 +1,13 @@
+﻿  compare.cpp
+E:\BaiduNetdiskDownload\primer习题\16章\16.2\compare.cpp(26,41): error C2664: “int compare<char>(const T &,const T &)”: 无法将参数 1 从“const char [6]”转换为“const T &”
+          with
+          [
+              T=char
+          ]
+E:\BaiduNetdiskDownload\primer习题\16章\16.2\compare.cpp(26,41): message : 原因如下: 无法从“const char [6]”转换为“const T”
+          with
+          [
+              T=char
+          ]
+E:\BaiduNetdiskDownload\primer习题\16章\16.2\compare.cpp(26,25): message : 没有使该转换得以执行的上下文
+E:\BaiduNetdiskDownload\primer习题\16章\16.2\compare.cpp(17,5): message : 参见“compare”的声明
